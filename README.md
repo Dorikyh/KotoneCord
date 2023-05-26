@@ -1,0 +1,2 @@
+# KotoneCord
+Kotone Discord Bot
