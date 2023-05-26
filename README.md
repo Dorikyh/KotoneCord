@@ -1,2 +1,4 @@
 # KotoneCord
-Kotone Discord Bot
+The public version of Kotone Discord bot.
+
+
